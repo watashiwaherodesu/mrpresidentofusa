@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 30 Oct 2024 12:52:10 at https://bidenerc.site/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bidenerc.site/ -O1 "C:\Users\USER\OneDrive\Desktop\mr president\mrpresident" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:57:45	Error: 	"Forbidden" (403) at link https://code.highcharts.com/highcharts.js (from https://bidenerc.site/)
+12:58:04	Error: 	"Not Found" (404) at link https://bidenerc.site/assets/icon/fa-light-300.eot (from https://bidenerc.site/assets/font/font-awesome.css)
+12:58:26	Error: 	"Not Found" (404) at link https://bidenerc.site/e (from https://bidenerc.site/app/js/swiper-bundle.min.js)
+12:58:26	Error: 	"Not Found" (404) at link https://bidenerc.site/a.params.url (from https://bidenerc.site/app/js/swiper-bundle.min.js)
+12:58:26	Error: 	"Not Found" (404) at link https://bidenerc.site/popper.js (from https://bidenerc.site/app/js/bootstrap.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 16 seconds : 100 links scanned, 94 files written (21836479 bytes overall) [11327043 bytes received at 30125 bytes/sec], 16453683 bytes transferred using HTTP compression in 44 files, ratio 35%, 1.8 requests per connection
+(5 errors, 0 warnings, 0 messages)
